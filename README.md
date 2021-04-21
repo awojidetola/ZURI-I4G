@@ -1,7 +1,7 @@
 # ZURI-I4G
 The Zuri I4G Training (Backend-Python)
 
-# ZURI ATM TASK
+### ZURI ATM TASK
 * The user should see the current date and time after they log in
 * When the user selects option 1, they should be presented with the following:
 * How much would you like to withdraw (receive input from the user), output "take your cash"
@@ -16,7 +16,7 @@ The Zuri I4G Training (Backend-Python)
   * Include Register and Login
   * Generate Account Number
 
-## ZURI BUDGET TASK (Objects and Classes)
+### ZURI BUDGET TASK (Objects and Classes)
 Create a Budget class that can instantiate objects based on different budget categories like food, clothing, and entertainment. 
 * These objects should allow for:
  * Depositing funds to each of the categories
